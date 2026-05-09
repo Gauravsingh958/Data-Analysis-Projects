@@ -56,7 +56,7 @@ Netflix-Data-Analysis/
 # 📷 Visualizations
 
 ## Movies vs TV Shows
-![Type Chart](images/type_chart.png)
+![distribution of content](images/type_chart.png)
 
 ---
 
