@@ -5,7 +5,7 @@ An interactive and premium Power BI dashboard designed to analyze employee attri
 ---
 
 ## 🚀 Live Preview & Look
-![HR Analytics Dashboard](file:///C:/Users/KHIM%20SINGH/AppData/Local/Temp/Power%20BI%20Desktop/print-job-d9939794-9f57-4598-ac5a-6987e5bc12f4/HR_Analytics_Dashboard.pdf)
+![HR Analytics Dashboard](./Dashboard.png)
 
 ---
 
